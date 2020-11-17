@@ -1,11 +1,8 @@
 print("hello")
 
-<<<<<<< HEAD
-print("i understood about git")
-=======
 
 for x in range(7):
 
 print("done with for loops")
 
->>>>>>> dev
+ex is snake
