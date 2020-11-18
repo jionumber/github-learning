@@ -4,5 +4,8 @@ print("hello")
 for x in range(7):
 
 print("done with for loops")
+<<<<<<< HEAD
 
 print("git commands are asy to push")
+=======
+>>>>>>> 49ac7fe4dfebc6a9c06792c969dfda243223c54a
